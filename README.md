@@ -2,7 +2,7 @@
 - 👀 I’m interested in PhP, Python
 - 🌱 I’m currently learning Php
 - 💞️ I’m looking to collaborate on Minecraft
-- 📫 How to reach me Dicord : KydroxSurMc#2933
+- 📫 How to reach me Dicord : ҠψDrФX#2933
 
 <!---
 McKydrox/McKydrox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
